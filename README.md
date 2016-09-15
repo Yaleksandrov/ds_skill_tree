@@ -17,12 +17,20 @@
     * D3.js
     * three.js
     * JQuery
-  * C / C++
-  * Java / Scala
-  * SAS
-  * Matlab
+  * Other
+    * C / C++
+    * Java / Scala
+    * SAS
+    * Matlab
+    * Excel
 * Statistics
   * Descriptive statistics
+    * Univariate Analysis
+      * Central tendency
+      * Distribution
+      * Dispersion
+    * Bivariate / Multivariate Analysis
+    * 
   * Inferential statistics
   * Experimental design
 * Mathematics
