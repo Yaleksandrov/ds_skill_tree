@@ -1,5 +1,10 @@
 # Data Scientist knowledge domain - Entry Level
 
+1. **All items on the list:** One must know ALL items on this list at least at the level of comprehension, understanding the role and usage of the item in the Data Science domain.
+2. **Majority of the list:** One must have hands-on experience with the majority of the items.
+3. **Niche:** One should have reached mastery with a couple of elements of the list.
+
+## Domains of Knowledge
 * Programming
   * R programming language
     * ggplot2 / ggally / ggpairs
