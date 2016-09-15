@@ -62,6 +62,7 @@
     * TD-Learning
     * Genetic Algorithms
   * Supervised dimensionality reduction
+  * Feature selection
 * Data Wrangling
   * Shell scripting (sed, awk)
   * Regular Expressions
