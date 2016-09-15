@@ -1,4 +1,4 @@
-# Data Scientist knowledge domein - Entry Level
+# Data Scientist knowledge domain - Entry Level
 
 * Programming
   * R programming language
