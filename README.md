@@ -1,7 +1,6 @@
 * Programming
   * R programming language
-    * ggplot2
-    * ggally / ggpairs
+    * ggplot2 / ggally / ggpairs
     * dplyr
     * reshape2
     * data.table
