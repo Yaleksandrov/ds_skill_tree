@@ -75,7 +75,7 @@
   * Hadoop / Spark
   * Data Pipeline
 * Communication / Visualization
-  * Tufte
+  * Edward R. Tufte - The Visual Display of Quantitative Information
   * Static Data Visualization
   * Interactive Data Visualization
   * Jupyter Notebook
