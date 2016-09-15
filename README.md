@@ -32,7 +32,13 @@
       * Standard Deviation and Variance
       * Hypothesis testing (P-values)
       * Significance testing (Z-test, t-test, chi-squared, ANOVA)
-    * Bivariate / Multivariate Analysis
+    * Multivariate Analysis
+      * M-ANOVA
+      * Principal Component Analysis (PCA)
+      * Factor Analysis
+      * Correlation Analysis
+      * (Linear) Discriminant Analysis
+      * (Constrained) Correspondence Analysis
   * Inferential statistics
     * Parametric models
     * Non-parametric models
