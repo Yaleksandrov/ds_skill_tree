@@ -34,6 +34,10 @@
       * Significance testing (Z-test, t-test, chi-squared, ANOVA)
     * Bivariate / Multivariate Analysis
   * Inferential statistics
+    * Parametric models
+    * Non-parametric models
+    * Semi-parametric models
+    * Frequentist vs. Bayesian inference
   * Experimental design
 * Mathematics
   * Probability
